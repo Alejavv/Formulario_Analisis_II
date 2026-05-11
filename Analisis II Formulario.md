@@ -18,7 +18,7 @@ asintota ==> $y = k \pm \frac{a}{b}(x - h)$
 Ecuación estandar o canónica de la hipérbola con eje horizontal
 $$\frac{(x-h)^2}{a^2} - \frac{(y-k)^2}{b^2} = 1$$
 asintota ==> $y = k \pm \frac{b}{a}(x - h)$
-##### Superficies cuádricas, curvas de nivel y superficies de nivel:
+#### Superficies cuádricas, curvas de nivel y superficies de nivel:
 Ecuación de la esfera
 $$(x - x_0)^2 + (y - y_0)^2 + (z - z_0)^2 = a^2$$
 ![[Pasted image 20260508114359.png]]
@@ -75,3 +75,9 @@ Ecuación del paraboloide hiperbólico con eje vertical (eje z)
 $$z = \frac{y^2}{b^2} - \frac{x^2}{a^2} \quad \text{o} \quad z = \frac{x^2}{a^2} - \frac{y^2}{b^2}$$
 Ecuación del paraboloide hiperbólico con eje horizontal
 $$x = \frac{z^2}{c^2} - \frac{y^2}{b^2} \quad \text{o} \quad y = \frac{z^2}{c^2} - \frac{x^2}{a^2}$$
+
+### Limites y continuidad en varias variables:
+### Derivadas parciales y direccionales:
+### Diferenciabilidad, plano tangente y linealización:
+### Polinomio de Taylor:
+### Análisis de funciones: máximos, mı́nimos y puntos silla
