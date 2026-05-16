@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Analisis II Formulario.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Analisis II Formulario"
             }
           }
         ]
@@ -203,8 +203,8 @@
   },
   "active": "101b22eba1ac37e7",
   "lastOpenFiles": [
-    "Analisis II Formulario.md",
     "README.md",
+    "Analisis II Formulario.md",
     "Pasted image 20260508114929.png",
     "Pasted image 20260508114853.png",
     "Pasted image 20260508114359.png"
